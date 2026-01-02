@@ -4,6 +4,8 @@
 .DS_Store
 *.DS_Store
 /model validation tagged whales/.DS_Store
+/model validation tagged whales/*.DS_Store
+
 # Session Data files
 .RData
 .RDataTmp
