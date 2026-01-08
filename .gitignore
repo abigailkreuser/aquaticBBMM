@@ -5,6 +5,16 @@
 *.DS_Store
 /model validation tagged whales/.DS_Store
 /model validation tagged whales/*.DS_Store
+figures/*.DS_Store
+*.DS_Store
+data/bbmmRasterData/
+data/~$*
+~$*
+data/*.DS_Store*
+data/20230822bbmmRasterDataCOARSE/
+data/baseRaster/20240814_1km_resRasterLandNAs_forGridDist.nc
+data/processedData/results/Jan06.nc
+data/processedData/results/May15.nc
 
 # Session Data files
 .RData
@@ -24,6 +34,7 @@
 
 # RStudio files
 .Rproj.user/
+.Rproj.user
 
 # produced vignettes
 vignettes/*.html
