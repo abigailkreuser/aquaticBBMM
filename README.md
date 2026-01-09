@@ -1,6 +1,6 @@
 # aquaticBBMM
 
-This is the code used to create occurrence distributions from intermittent sightings of individuals in a manuscript in review. Right whale data can be requested from the North Atlantic Right Whale Consortium https://www.narwc.org/. I will try to create a dummy dataset or publicly available data in the future for examples. 
+This is the code used to create occurrence distributions from intermittent sightings of individuals in a manuscript in review. Right whale data can be requested from the North Atlantic Right Whale Consortium https://www.narwc.org/. I will try to create a dummy dataset or publicly available data in the future for examples. I used a lot more code for visualizations and summarizing the data, but wanted this repository to focus on the model and outputs itself. 
 
 
 Code for this model was written in R Statistical Software (v4.2.2; R Core Team 2022) was adapted from source code in the R packages move (v4.1.6; Kranstauber et al. 2021) and BBMM (v3.0; Nielsen et al. 2013).
